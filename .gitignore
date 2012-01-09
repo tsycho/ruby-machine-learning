@@ -1,0 +1,7 @@
+output/
+experimental/
+jars/
+tmp/
+.redcar/
+*.swp
+*~
